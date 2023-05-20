@@ -1,0 +1,14 @@
+"cust_name","cust_id","gender","geography","churn","age"
+"Satyajit",1,"M","Odisha",0,35
+"Rani",2,"F","MP",0,30
+"Hema",3,"F","UP",1,30
+"Raj",4,"M","AP",0,35
+"Kumar",5,"M","Karnataka",1,35
+"satyajit",2,"M","Odisha",0,35
+"Shanti",5,"F","Delhi",0,30
+"Soma",5,"F","Jammu",1,30
+"Akshay",6,"M","Odisha",0,35
+"Shikhar",7,"M","MP",0,35
+"Pritesh",8,"M","UP",1,35
+"Nithyashree",9,"F","AP",0,30
+"Rahul",10,"M","Karnataka",1,35
